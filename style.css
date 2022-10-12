@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
+
+body {
+  color: #003049;
+  font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 40px;
+  background: #eae2b7;
+  margin: 200px;
+}
+
+header{
+  padding: 100px 0 0;
+}
+a:link{
+  color:#d62828;
+}
+
+ a:hover{
+   color:#f77f00;
+ }
+
+
+
+
+nav{
+  text-align: center;
+  padding: 0 0 50px;
+  
+}
+
+
+
+h1{
+  font-family: "Playfair Display", Times, serif;
+  text-align: center;
+}
+
+h2{
+  font-family: "Playfair Display", Times, serif;
+  Text-align: center; 
+}
+
+h3 {
+  font-family: "Playfair Display", Times, serif;
+  Text-align: center;
+}
+
+article {
+  padding: 50px 0;
+}
+
+article div {
+  text-align: center;
+  width: 100%;
+}
+
+p {
+  line-height: 1.5;
+  
+  
+}
+
+div {
+  margin:auto;
+  width: 600px;
+}
+
+img {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+footer{
+  text-align: center;
+}
+
+
+.image-circle {
+  border: 2px solid #003049;
+  border-radius:50%; 
+  
+  
+}
