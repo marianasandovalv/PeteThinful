@@ -16,9 +16,11 @@ header{
 a:link{
   color: #d62828;
 }
-
-
- a:hover{
+ 
+a:visited{
+  color:#d62828;
+}
+a:hover{
    color: #f77f00;
  }
 
