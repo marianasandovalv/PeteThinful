@@ -14,17 +14,15 @@ header{
 
 
 a:link{
-  color:#d62828;
+  color: #d62828;
 }
 
 
  a:hover{
-   color:#f77f00;
+   color: #f77f00;
  }
 
-a:active{
-  color:#d62828;
-}
+
 
 
 nav{
